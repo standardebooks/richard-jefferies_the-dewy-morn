@@ -34,7 +34,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An independent young woman tries to gain the love and affection of the owner of the neighboring farm.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Felise is an independent young woman living on her uncle’s farm. She is in love with Martial, the proprieter of the neighboring farm. She tries to win him over, though he has been hurt from a previous relationship and resists her bold advances.&lt;/p&gt;
+			&lt;p&gt;Felise is an independent young woman living on her uncle’s farm. She is in love with Martial, the proprieter of the neighboring farm. She tries to win him over, though he has been hurt from a previous relationship and resists her bold advances. Their courtship intertwines with the stories of the other folk working the nearby farms.&lt;/p&gt;
 			&lt;p&gt;Like much of the work of &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt;, &lt;i&gt;The Dewy Morn&lt;/i&gt; is really not about the plot, and more about the feeling of the characters and the depictions of country life. This story has much in common with Jefferies’ later novel &lt;a href="https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair"&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt;&lt;/a&gt;, though &lt;i&gt;The Dewy Morn&lt;/i&gt; has a slightly greater emphasis on plot and fewer digressions. While not one of his more well known books, &lt;i&gt;The Dewy Morn&lt;/i&gt; represents a further lean into the nature oriented style he would eventually come to be known for.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -51,10 +51,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Jefferies</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81125341</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Henry Ward Ranger</dc:contributor>
+		<meta property="file-as" refines="#artist">Ranger, Henry Ward</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Ward_Ranger</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93027554</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">Brian Evans</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Evans, Brian</meta>
@@ -65,7 +65,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
