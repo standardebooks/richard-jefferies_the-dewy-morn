@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 32 60">
+	<title>Three lines that resemble an uppercase letter M without the final vertical line on the right side.</title>
+	<polyline fill="none" points="3,55 3,5 15,20 27,5" stroke="black" style="stroke-width:3"/>
+</svg>

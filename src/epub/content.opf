@@ -25,6 +25,8 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Dewy Morn</dc:title>
 		<meta property="file-as" refines="#title">Dewy Morn, The</meta>
@@ -34,7 +36,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An independent young woman tries to gain the love and affection of the owner of the neighboring farm.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Felise is an independent young woman living on her uncle’s farm. She is in love with Martial, the proprieter of the neighboring farm. She tries to win him over, though he has been hurt from a previous relationship and resists her bold advances. Their courtship intertwines with the stories of the other folk working the nearby farms.&lt;/p&gt;
+			&lt;p&gt;Felise is an independent young woman living on her uncle’s farm. She is in love with Martial, the proprietor of the neighboring farm. She tries to win him over, though he has been hurt from a previous relationship and resists her bold advances. Their courtship intertwines with the stories of the other folk working the nearby farms.&lt;/p&gt;
 			&lt;p&gt;Like much of the work of &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt;, &lt;i&gt;The Dewy Morn&lt;/i&gt; is really not about the plot, and more about the feeling of the characters and the depictions of country life. This story has much in common with Jefferies’ later novel &lt;a href="https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair"&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt;&lt;/a&gt;, though &lt;i&gt;The Dewy Morn&lt;/i&gt; has a slightly greater emphasis on plot and fewer digressions. While not one of his more well known books, &lt;i&gt;The Dewy Morn&lt;/i&gt; represents a further lean into the nature oriented style he would eventually come to be known for.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -66,11 +68,15 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/ch-5-symbol-1.svg" id="ch-5-symbol-1.svg" media-type="image/svg+xml"/>
+		<item href="images/ch-5-symbol-2.svg" id="ch-5-symbol-2.svg" media-type="image/svg+xml"/>
+		<item href="images/ch-5-symbol-3.svg" id="ch-5-symbol-3.svg" media-type="image/svg+xml"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
@@ -78,7 +84,7 @@
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-3.xhtml" id="chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-4.xhtml" id="chapter-1-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-1-5.xhtml" id="chapter-1-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-1-5.xhtml" id="chapter-1-5.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/chapter-1-6.xhtml" id="chapter-1-6.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-7.xhtml" id="chapter-1-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-8.xhtml" id="chapter-1-8.xhtml" media-type="application/xhtml+xml"/>

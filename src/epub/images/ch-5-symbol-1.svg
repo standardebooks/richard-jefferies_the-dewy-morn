@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 20 60">
+	<title>A straight vertical line.</title>
+	<line stroke="black" style="stroke-width:3" x1="9" x2="9" y1="5" y2="55"/>
+</svg>
