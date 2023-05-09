@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 32 60">
-	<title>Three lines that resemble an uppercase letter M without the final vertical line on the right side.</title>
-	<polyline fill="none" points="3,55 3,5 15,20 27,5" stroke="black" style="stroke-width:3"/>
+<svg version="1.0" viewBox="0 0 32 60" xmlns="http://www.w3.org/2000/svg">
+ <title>Three lines that resemble an uppercase letter M without the final vertical line on the right side.</title>
+ <path d="m2.8252 2.5462v54.275h3v-45.723l10.5 13.123 13.172-16.463-2.3438-1.875-10.828 13.535z"/>
 </svg>
