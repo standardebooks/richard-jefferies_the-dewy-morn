@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.0" viewBox="0 0 20 60" xmlns="http://www.w3.org/2000/svg">
- <title>A straight vertical line.</title>
- <g>
-  <path d="m9.6821 5.2209v50"/>
-  <path d="m8.1816 5.2207v50h3v-50z"/>
- </g>
+<svg version="1.0" viewBox="0 0 3 50.000198" xmlns="http://www.w3.org/2000/svg">
+  <title>A straight vertical line.</title>
+	<path d="M 0,0 V 50 H 3 V 0 Z" />
 </svg>
