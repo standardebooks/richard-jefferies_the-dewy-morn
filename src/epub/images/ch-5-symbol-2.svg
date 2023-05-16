@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.0" viewBox="0 0 14.6719 54.275002" xmlns="http://www.w3.org/2000/svg">
-  <title>A straight vertical line with barb at the top, resembling the left half of an uppercase letter M.</title>
-  <path d="M 0,0 V 54.275 H 3 V 8.552 l 9.3281,11.66 2.3438,-1.875 z" />
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="0 0 14.6719 54.275002">
+	<title>A straight vertical line with barb at the top, resembling the left half of an uppercase letter M.</title>
+	<path d="M 0,0 V 54.275 H 3 V 8.552 l 9.3281,11.66 2.3438,-1.875 z"/>
 </svg>
