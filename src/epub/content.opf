@@ -44,7 +44,7 @@
 		<dc:source>https://archive.org/details/dewymornnovel01jeff</dc:source>
 		<!--Volume II -->
 		<dc:source>https://archive.org/details/dewymornnovel02jeff</dc:source>
-		<meta property="se:word-count">95861</meta>
+		<meta property="se:word-count">95313</meta>
 		<meta property="se:reading-ease.flesch">69.52</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_the-dewy-morn</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
