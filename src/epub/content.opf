@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/richard-jefferies/the-dewy-morn</dc:identifier>
 		<dc:date>2023-05-16T17:29:13Z</dc:date>
@@ -35,11 +35,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An independent young woman tries to gain the love and affection of the owner of the neighboring farm.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An independent young woman tries to gain the love and affection of the owner of the neighboring farm.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Felise is an independent young woman living on her uncle’s farm. She is in love with Martial, the proprietor of the neighboring farm. She tries to win him over, though he has been hurt from a previous relationship and resists her bold advances. Their courtship intertwines with the stories of the other folk working the nearby farms.&lt;/p&gt;
 			&lt;p&gt;Like much of the work of &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt;, &lt;i&gt;The Dewy Morn&lt;/i&gt; is really not about the plot, and more about the feeling of the characters and the depictions of country life. This story has much in common with Jefferies’ later novel &lt;a href="https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair"&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt;&lt;/a&gt;, though &lt;i&gt;The Dewy Morn&lt;/i&gt; has a slightly greater emphasis on plot, and has fewer digressions. While not one of his more well-known books, &lt;i&gt;The Dewy Morn&lt;/i&gt; represents a further lean into the nature oriented style he would eventually come to be known for.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!--Volume I -->
 		<dc:source>https://archive.org/details/dewymornnovel01jeff</dc:source>
